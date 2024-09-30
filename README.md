@@ -3,6 +3,8 @@
 # Discord Welcome Botu
 
 Bu proje şunları sağlar: 3 Tane farklı Discord botu 3 Farklı ses kanalına bağlanır, o ses kanallarına bir üye katıldığında bir müzik çalma işlevi tetiklenir, isteğe bağlı ytRolü değişkenine bir kayıtçı rolünün ID sini ekleyebilirsiniz, kayıtçı ses kanalına girdiğinde çalınan ses otomatik olarak durur.
+```
+
 
 ## Özellikler
 
@@ -81,7 +83,7 @@ Katkılara her zaman açığım ekleme yapmak isterseniz istek gönderebilirsini
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
-```
+
 
 
 ## Discord Hesabım
