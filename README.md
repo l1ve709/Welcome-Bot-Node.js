@@ -7,8 +7,8 @@ Bu proje şunları sağlar: 3 Tane farklı Discord botu 3 Farklı ses kanalına 
 ## Kullanılan Dil(ler)
 
 <picture>
-  <source srcset="https://skillicons.dev/icons?i=py" media="(prefers-color-scheme: dark)">
-  <img src="[https://skillicons.dev/icons?i=py](https://skillicons.dev/icons?i=js,nodejs)">
+  <source srcset="https://skillicons.dev/icons?i=js,nodejs" media="(prefers-color-scheme: dark)">
+  <img src="https://skillicons.dev/icons?i=js,nodejs">
 </picture>
 
 
