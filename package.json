@@ -1,0 +1,22 @@
+{
+  "name": "discord-welcome-botu",
+  "version": "1.0.0",
+  "description": "Yeni üyeleri seste karşılayan discord botu.",
+  "main": "bot.js",  
+  "scripts": {
+    "start": "node bot.js"  
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ses",
+    "müzik",
+    "welcome"
+  ],
+  "author": "Ediz",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "@discordjs/voice": "^0.7.0"
+  }
+}
